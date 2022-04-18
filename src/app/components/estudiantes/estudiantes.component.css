@@ -1,0 +1,7 @@
+table {
+    width: 100%;
+  }
+
+  .noAprueba { color:crimson}
+
+  .siAprueba { color:forestgreen}
